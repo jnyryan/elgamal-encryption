@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # encoding:UTF-8
 """
-Practical 5
 
 Implement ElGamal using the following routines: 
 

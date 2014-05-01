@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # encoding:UTF-8
 """
-Practical 2
 
 Implement the following routine: 
 	
